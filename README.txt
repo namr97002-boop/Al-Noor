@@ -1,1 +1,0 @@
-gradle-wrapper.jar غير مرفق هنا لأنه ملف ثنائي يُنشأ/يُجلب بواسطة Gradle Wrapper. استخدم gradle wrapper أو أضفه من مشروع Android رسمي قبل البناء.
