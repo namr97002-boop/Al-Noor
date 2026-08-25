@@ -14,10 +14,13 @@ class MainActivity : AppCompatActivity() {
 
         webView.settings.javaScriptEnabled = true
         webView.settings.domStorageEnabled = true
+
         webView.webViewClient = WebViewClient()
 
-        webView.loadUrl("https://namr97002-boop.github.io/Al-Noor/")
-
         setContentView(webView)
+
+        webView.loadUrl(
+            "https://namr97002-boop.github.io/Al-Noor/"
+        )
     }
 }
